@@ -75,4 +75,4 @@ Uses divide-and-conquer strategy
 
 👨‍💻 Author
 
-Sanjeev Sharma
+Sanjeev Sharma.
